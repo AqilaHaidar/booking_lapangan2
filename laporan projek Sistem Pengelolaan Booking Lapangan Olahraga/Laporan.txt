@@ -1,0 +1,4 @@
+Nama Project: Sistem Pengelolaan Booking Lapangan Olahraga
+Teknologi: Laravel, MySQL, Bootstrap 5
+Fitur yang selesai: Register, Login, Logout, Dashboard, CRUD Booking, Filter Data User, Keamanan Akses Edit/Hapus, dan Cetak Laporan.
+Kendala: Tidak ada, aplikasi berjalan lancar.

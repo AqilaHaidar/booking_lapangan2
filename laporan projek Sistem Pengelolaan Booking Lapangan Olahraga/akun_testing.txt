@@ -1,0 +1,7 @@
+akun a: 
+email: nonopawangular@gmail.com
+pw: oraygede
+
+akun b: 
+email: haidartiger@gmail.com
+pw: tiger2000
